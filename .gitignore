@@ -1,0 +1,9 @@
+/downloads/*
+split_output/*
+venv/*
+
+# temp scripts
+chapter_combiner.py
+chapter_name_normalize.py
+mangapark_downloader.py
+requirements.txt
